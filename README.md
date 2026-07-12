@@ -3,11 +3,13 @@
 This is a large modpack which is basically an expanded snapshot of the mods I play with myself:
 - My Mods (LlamaBlocks & CMD + Delete)
 - Big feature mods (Ex. Create, Mekanism)
-- A bunch of backport mods (Ex. Vinilla Backports)
+- A bunch of create addons
+- A bunch of backport mods
+- A bunch of building mods
 - Look-good mods (Ex. Iris Shaders, Continuity)
-- Difficulty/grinding-related mods (Ex. Tax Free Levels, Advanced Netherite)
+- Difficulty-related mods (Ex. Tax Free Levels, Advanced Netherite)
 - Utility mods (Ex. Chat Heads, Durability Tooltip)
 
-This pack will likely be the most fun for builders and technical players interested in Vanilla+ features and large content mods.
+This pack will likely be the most fun for builders and technical players interested in Vanilla+ features, the Create ecosystem, and/or other large content mods.
 
-**Note that this pack is big & uses a lot of RAM do it requires >=4GB of allocated RAM when shaders are enabled (Though, I'd recommend 6-10GB)**.
+**Note that this pack is big & uses a lot of RAM do it requires >=5GB of allocated RAM when shaders are enabled (Though, I'd recommend 7-10GB)**.
